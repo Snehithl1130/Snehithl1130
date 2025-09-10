@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Snehithl1130
 - 👀 I’m interested in ... Coding
 - 🌱 I’m currently learning ... Python 
-- 📫 How to reach me ...snehithl1130@gmail.com
+- 📫 How to reach me ... snehithl1130@gmail.com
 - ⚡ Fun fact: ...Marvel freek
 
 <!---
